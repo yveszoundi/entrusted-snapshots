@@ -1,2 +1,2 @@
 # entrusted-snapshots
-Test builds for entrusted issues
+Snapshot builds for the [entrusted application](https://github.com/rimerosolutions/entrusted)
