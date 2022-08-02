@@ -1,6 +1,7 @@
 # entrusted-snapshots
 
-Test builds for entrusted issues on Windows.
+Snapshot builds for the [entrusted application](https://github.com/rimerosolutions/entrusted).
+This helps asses Windows issues as I sadly don't have a Windows machine (switch to UNIX/Linux 20+ years ago).
 
 ## Changelog
 
