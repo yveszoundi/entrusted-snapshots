@@ -1,8 +1,14 @@
 # entrusted-snapshots
 
-Test builds for entrusted issues
+Test builds for entrusted issues on Windows.
 
-## 20220730
+## Changelog
+
+### 20220801
+
+Snapshot build for command-line error when the OCR language is not sets
+
+### 20220730
 
 Snapshot build for general UI responsiveness issues and Windows specific annoyances
 - Avoid displaying a command prompt on Windows while running shell commands
