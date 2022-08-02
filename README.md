@@ -7,7 +7,7 @@ This helps asses Windows issues as I sadly don't have a Windows machine (switch 
 
 ### 20220801
 
-Snapshot build for command-line error when the OCR language is not sets
+Snapshot build for command-line error when the OCR language is not set.
 
 ### 20220730
 
