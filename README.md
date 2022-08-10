@@ -5,6 +5,11 @@ This helps asses Windows issues as I sadly don't have a Windows machine (switch 
 
 ## Changelog
 
+### 20220810
+
+Initial 0.2.4 release snapshot
+
+  
 ### 20220802
 
 - Ensure that the UI is responsive during conversions 
